@@ -16,4 +16,7 @@ We must conduct an [Empathy Interview](https://www.youtube.com/watch?v=91ujUV4ju
 May I suggest a Google form with three open-ended questions?
 This is something that a Product Owner would do in a [Scrum Team](https://www.youtube.com/watch?v=iJ_sl6J8PRg). So, let's add this hat to our collection.
 Our organization chart looks as follows:
-![image](https://github.com/mrigakshipandey/gameOfLife/assets/33392142/13416762-81d8-4bc9-a8fe-b63735916d87)
+![z720t4ob](https://github.com/mrigakshipandey/gameOfLife/assets/33392142/fbd6f714-a91b-4134-95bc-4745ecff3246)
+## Day #2 (19-09-2023)
+It was decided to conduct the empathy interview as a [Google form](https://www.youtube.com/watch?v=I4T-FGZo7zo) so I prepared that today. 
+I used Chat GPT again to help me paraphrase the questions. I have sent the survey over and will try to get some responses.
