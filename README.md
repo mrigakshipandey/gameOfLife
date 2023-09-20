@@ -17,8 +17,8 @@ May I suggest a Google form with three open-ended questions?
 This is something that a Product Owner would do in a [Scrum Team](https://www.youtube.com/watch?v=iJ_sl6J8PRg). So, let's add this hat to our collection.
 Our organization chart looks as follows:
 ![z720t4ob](https://github.com/mrigakshipandey/gameOfLife/assets/33392142/fbd6f714-a91b-4134-95bc-4745ecff3246)
-## Day #2 (19-09-2023)
+## Day #3 (19-09-2023)
 It was decided to conduct the empathy interview as a [Google form](https://www.youtube.com/watch?v=I4T-FGZo7zo) so I prepared that today. 
 I used Chat GPT again to help me paraphrase the questions. I have sent [the survey](https://docs.google.com/forms/d/e/1FAIpQLSd-2Y1hfY6Au4jngkOKR7wvrFDmSeiKaX79nBTN5lD-n3AsBg/viewform?usp=sf_link) over and will try to get some responses.
-## Day #3 (20-09-2023)
-I created an empathy map according to the survey responses and observed some patterns. The information is available in the docs folder. I'll start the ideation process next.
+## Day #4 (20-09-2023)
+I created an [Empathy Map](https://www.youtube.com/watch?v=1bczqjGsD44) according to the survey responses and observed some patterns. The information is available in the docs folder. I'll start the ideation process next.
