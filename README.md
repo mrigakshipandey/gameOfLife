@@ -19,4 +19,6 @@ Our organization chart looks as follows:
 ![z720t4ob](https://github.com/mrigakshipandey/gameOfLife/assets/33392142/fbd6f714-a91b-4134-95bc-4745ecff3246)
 ## Day #2 (19-09-2023)
 It was decided to conduct the empathy interview as a [Google form](https://www.youtube.com/watch?v=I4T-FGZo7zo) so I prepared that today. 
-I used Chat GPT again to help me paraphrase the questions. I have sent the survey over and will try to get some responses.
+I used Chat GPT again to help me paraphrase the questions. I have sent [the survey](https://docs.google.com/forms/d/e/1FAIpQLSd-2Y1hfY6Au4jngkOKR7wvrFDmSeiKaX79nBTN5lD-n3AsBg/viewform?usp=sf_link) over and will try to get some responses.
+## Day #3 (20-09-2023)
+I created an empathy map according to the survey responses and observed some patterns. The information is available in the docs folder. I'll start the ideation process next.
